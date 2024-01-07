@@ -1,4 +1,4 @@
-# English Question Answering with AdversarialQA Dataset
+# English Question Answering using AdversarialQA Dataset
 
 This repository contains code and resources for performing English Question Answering (QA) using the AdversarialQA dataset. The project involves utilizing mT5 and T5 models for question answering tasks and evaluating performance using various metrics like Character Error Rate (CER), Word Error Rate (WER), Exact Match (EM), BLEU Score, METEOR Score, and Rouge Score.
 
